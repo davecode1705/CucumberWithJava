@@ -14,7 +14,7 @@ import io.cucumber.java.en.When;
 
 public class GoogleSearchSteps {
 public static WebDriver driver;
-	@Given("browser is open")
+	/*@Given("browser is open")
 	public void browser_is_open() {
 		String projectPath = System.getProperty("user.dir");
 		System.out.println("Project Path is: " +projectPath );
@@ -49,5 +49,5 @@ public static WebDriver driver;
 	   
 	   driver.close();
 	}
-
+*/
 }
